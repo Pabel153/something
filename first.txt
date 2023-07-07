@@ -1,2 +1,1 @@
 This is first.txt file and add to jhBranch.
-I am trying to clone and modify this branch and work with remote reposity.
